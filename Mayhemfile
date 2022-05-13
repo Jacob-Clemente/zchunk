@@ -1,5 +1,5 @@
 project: jacob-clemente/zchunk
-target: zchunk
+target: unzck
 
 cmds:
-  - cmd: /unzck @@
+  - cmd: /unzck @@.zck
