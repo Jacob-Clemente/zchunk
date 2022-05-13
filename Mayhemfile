@@ -1,0 +1,5 @@
+project: jacob-clemente/zchunk
+target: zchunk
+
+cmds:
+  - cmd: /unzck @@
